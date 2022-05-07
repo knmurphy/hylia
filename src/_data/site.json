@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "showThemeCredit": false,
+  "name": "Mental Health Plant",
+  "shortDesc": "Get a Mental Health Plant for your family",
+  "url": "https://bespoke-cobbler-049f15.netlify.app",
+  "authorEmail": "\"\"",
+  "authorHandle": "\"\"",
+  "authorName": "Kevin & Whitney Murphy",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "\"\"",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
